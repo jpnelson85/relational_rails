@@ -1,5 +1,6 @@
 <h1>Drivers</h1>
 <% @drivers.each do |driver| %>
-<h3><%= driver.driver_name %><h3/>
-
-  <% end %>
+  <h3><%= driver.driver_name %></h3>
+  <h4><%= driver.won_indy %></h4>
+  <h4><%= driver.championships %></h4>
+<% end %>
