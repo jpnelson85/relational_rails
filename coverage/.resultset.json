@@ -225,9 +225,11 @@
           null,
           1,
           1,
+          1,
           null,
           1,
           1,
+          null,
           null
         ]
       },
@@ -235,74 +237,6 @@
         "lines": [
           1,
           null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/spec/features/drivers/show_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/spec/features/races/index_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/spec/features/races/show_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/spec/models/driver_spec.rb": {
-        "lines": [
-
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/spec/models/race_spec.rb": {
-        "lines": [
-
         ]
       },
       "/Users/nellie/turing/mod2/projects/relational_rails/app/models/race.rb": {
@@ -318,49 +252,8 @@
           1,
           null
         ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/app/models/driver.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/app/controllers/drivers_controller.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/nellie/turing/mod2/projects/relational_rails/app/controllers/races_controller.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          null
-        ]
       }
     },
-    "timestamp": 1684194305
+    "timestamp": 1684277899
   }
 }
