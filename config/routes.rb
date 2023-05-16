@@ -6,7 +6,9 @@ Rails.application.routes.draw do
 
   get '/races', to: 'races#index'
   get '/races/:id', to: 'races#show'
-
+  get 'races/:id/drivers', to: 'races#drivers_show'
+  
   get '/drivers', to: 'drivers#index'
   get '/drivers/:id', to: 'drivers#show'
+  
 end
